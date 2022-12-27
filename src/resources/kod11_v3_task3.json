@@ -1,0 +1,18 @@
+[
+    {"id": "1", "img": "1.png", "name": "Помидор", "price":120, "description":"свежие томаты, сезонные овощи"}, 
+    {"id": "2", "img": "2.png", "name": "Мясо", "price":660, "description":"свежее мясо, говядина", "sale":25}, 
+    {"id": "3", "img": "3.png", "name": "Картофель", "price":70, "description":"молодой картофель, белый", "isNew":true}, 
+    {"id": "4", "img": "4.png", "name": "Капуста", "price":80, "description":"цветная капуста"}, 
+    {"id": "5", "img": "5.png", "name": "Огурцы", "price":60, "description":"свежие огурцы, тепличные", "sale":15}, 
+    {"id": "6", "img": "6.png", "name": "Бананы", "price":120, "description":"бананы крупные", "sale":15}, 
+    {"id": "7", "img": "7.png", "name": "Лук", "price":50, "description":"лук репчатый, белый", "isNew":true}, 
+    {"id": "8", "img": "8.png", "name": "Лимоны", "price":220, "description":"лимоны свежий урожай"}, 
+    {"id": "9", "img": "9.png", "name": "Брокколи", "price":80, "description":"капуста брокколи, свежая", "sale":25}, 
+    {"id": "10", "img": "10.png", "name": "Перец", "price":120, "description":"перец болгарский, сладкий"}, 
+    {"id": "11", "img": "11.png", "name": "Клубника", "price":320, "description":"ягоды свежие, клубника",  "isNew":true}, 
+    {"id": "12", "img": "12.png", "name": "Виноград", "price":180, "description":"виноград без косточки", "sale":20}, 
+    {"id": "13", "img": "13.png", "name": "Вишня", "price":220, "description":"ягоды свежие, вишня", "isNew":true}, 
+    {"id": "14", "img": "14.png", "name": "Мука", "price":90, "description":"мука, высший сорт", "sale":20}, 
+    {"id": "15", "img": "15.png", "name": "Хлеб", "price":50, "description":"хлеб, высший сорт, порционный"} 
+]
+

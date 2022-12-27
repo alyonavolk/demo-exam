@@ -1,0 +1,17 @@
+.app{
+  padding: 0 120px;
+  &__content{
+    margin: 180px 0 80px;
+  }
+
+  @media (max-width: 768px) {
+    padding: 0 60px;
+    &__content{
+      margin-top: 100px;
+    }
+  }
+  @media (max-width: 568px) {
+    padding: 0 30px;
+  }
+  
+}
